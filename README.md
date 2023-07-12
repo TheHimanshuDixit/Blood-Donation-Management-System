@@ -1,6 +1,6 @@
 # Blood Donation Management System
 
-A web application which help you to find the blood donar efficiently (A Web Development Project).
+A web application which help you to find the blood donar efficiently.
 
 ## Tech Stack
 
