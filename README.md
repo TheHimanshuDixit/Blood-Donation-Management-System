@@ -1,9 +1,10 @@
-# Farmify
-Farmify is a Non-Profit Organization that provides Farmers exposure and opportunities to sell their products at justified prices. We open them doors to thousands of market verified buyers (Full stack project).
+# Blood Donation Management System
+
+A web application which help you to find the blood donar efficiently (A Web Development Project).
 
 ## Tech Stack
 
-**Frontend:** Html, CSS, Js
+**Frontend:** Html, CSS, JS
 
 **Backend:** PHP
 
