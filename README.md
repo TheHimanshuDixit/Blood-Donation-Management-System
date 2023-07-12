@@ -29,9 +29,7 @@ Go to the project directory
   cd my-project
 ```
 
-Download Xampp
-
-Start Xampp (Apche & Mysql)
+Download Xampp && Start Xampp (Apche & Mysql)
 
 ```
   move this project to htdocs folder in xampp
